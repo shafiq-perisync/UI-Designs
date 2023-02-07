@@ -2,7 +2,7 @@ import { Text, View, Image, Switch } from 'react-native';
 import React from 'react';
 
 // Styles
-import {styles} from '../styles/Screen3Styles.js';
+import {styles} from '../styles/Screen3DrawerStyles.js';
 
 // Icons
 import LinearGradient from 'react-native-linear-gradient';
